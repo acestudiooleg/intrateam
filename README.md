@@ -1,2 +1,0 @@
-# intrateam
-Created with CodeSandbox
